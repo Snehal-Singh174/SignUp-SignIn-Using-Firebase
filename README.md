@@ -1,16 +1,17 @@
-# day_27
+# SignUp & SignIn with Firebase
 
-A new Flutter application.
+Hello Coders!! In this project you i have implemented the firebase email and password authentication. I have used the latest version of firebase_auth and firebase_core so the methods compatible with older version will not be used instead of that the new methods will be user for that you can refer migration document of flutter link: https://firebase.flutter.dev/docs/migration/ If you still facing issue feel free to contact me. Keep Learning!!!
 
-## Getting Started
+# HomePage
 
-This project is a starting point for a Flutter application.
+![](homepage.png)
 
-A few resources to get you started if this is your first Flutter project:
+# SignUp Page
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![](signup.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# SignIn Page
+
+![](signin.png)
+
+## Just follow☝️ me and Star⭐ my repository 
